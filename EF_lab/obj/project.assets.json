@@ -7238,11 +7238,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Entity Framwork\\EF_lab\\EF_lab.csproj",
+      "projectUniqueName": "D:\\Entity Framwork\\Entity FrameWork labs\\EF_lab\\EF_lab.csproj",
       "projectName": "EF_lab",
-      "projectPath": "D:\\Entity Framwork\\EF_lab\\EF_lab.csproj",
+      "projectPath": "D:\\Entity Framwork\\Entity FrameWork labs\\EF_lab\\EF_lab.csproj",
       "packagesPath": "C:\\Users\\Mahmoud Sallam\\.nuget\\packages\\",
-      "outputPath": "D:\\Entity Framwork\\EF_lab\\obj\\",
+      "outputPath": "D:\\Entity Framwork\\Entity FrameWork labs\\EF_lab\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mahmoud Sallam\\AppData\\Roaming\\NuGet\\NuGet.Config",

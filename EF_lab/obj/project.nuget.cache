@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gs9sm4pg56Fmq7rdUran9/GK9d6Cd9BF5vWzzzSQEUSw+rRJ+e4z6lMefsBkC07Oq50D+ZAfJzTATix65W40tQ==",
+  "dgSpecHash": "XWYSnLWlEoEBwrEUSMffZYYBnu9Zf8cS+xp7veePYWhPTVUWBlDX2OcULjJbXWR0+/HvBiEnqiG2/XezTQcI4g==",
   "success": true,
-  "projectFilePath": "D:\\Entity Framwork\\EF_lab\\EF_lab.csproj",
+  "projectFilePath": "D:\\Entity Framwork\\Entity FrameWork labs\\EF_lab\\EF_lab.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mahmoud Sallam\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Mahmoud Sallam\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
